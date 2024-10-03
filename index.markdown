@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Some content here: welcome to my page!
